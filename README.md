@@ -2,7 +2,7 @@
 A sample app to how to get touched a word on the [TextView](https://developer.android.com/reference/android/widget/TextView).
 
 <p align="center">
-  <img src="./art/p1.png" height="400" width="220"/>
+  <img src="./art/p1.jpg" height="400" width="220"/>
 </p>
 
 ## Note
