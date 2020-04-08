@@ -5,5 +5,5 @@ A sample app to how to get touched a word on the [TextView](https://developer.an
   <img src="./art/p1.jpg" height="400" width="220"/>
 </p>
 
-## Note
+## Credit
 It's just a sample for the solution that provided by this [answer](https://stackoverflow.com/a/8617672/5255963).
